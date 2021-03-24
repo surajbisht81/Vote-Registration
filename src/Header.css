@@ -1,0 +1,19 @@
+.header{
+    background-color: #404040;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header img{
+    height: 80px;
+    width: 130px;
+    padding: 5px;
+}
+
+.header > h1{
+    color: white;
+}
+
+.header > .heading__english > h1{
+    color: white;
+}

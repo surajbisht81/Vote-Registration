@@ -1,0 +1,45 @@
+
+.home > .language__select{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    margin: 5px;
+}
+.home > .language__select > .button__part{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: white;
+}
+
+.home > .language__select > .button__part > button{
+    background-color: darkgrey;
+    color: white;
+    margin: 5px 10px;
+    padding: 5px 25px;
+    border: none;
+}
+
+.home > .language__select > .language__part{
+    display: flex;
+    margin: 15px;
+    align-items: center;
+}
+
+.home > .language__select > .language__part > h4{
+    margin-right: 10px;
+}
+
+.home > .language__select > .language__part > select{
+    background-color: darkgrey;
+    color: white;
+    margin: 5px 10px;
+    padding: 5px 25px;
+    border: none;
+}
+
+.home > h1{
+    margin: 20px 250px 0px;
+    color: #b30000;
+}
